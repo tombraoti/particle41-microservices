@@ -27,6 +27,6 @@ spec:
     spec:
       containers:
       - name: myimage
-        image: <yourreponame>/project:1.0.0
+        image: tombraoti/particle41:1.0.0
         ports:
         - containerPort: 5000
